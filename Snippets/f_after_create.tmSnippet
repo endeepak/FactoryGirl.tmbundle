@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>f.after_create do |${1:model}|
+  $0
+end</string>
+	<key>name</key>
+	<string>f.after_create</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>f.ac</string>
+	<key>uuid</key>
+	<string>61704AAB-2AAC-4398-B2E8-9079CDD45EC8</string>
+</dict>
+</plist>

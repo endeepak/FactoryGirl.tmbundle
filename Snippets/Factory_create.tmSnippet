@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1$2 = Factory.create(:${1:model})
+$0</string>
+	<key>name</key>
+	<string>Factory.create</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>fc</string>
+	<key>uuid</key>
+	<string>139737D6-397C-4EBC-8A90-C42C9B62AA92</string>
+</dict>
+</plist>
